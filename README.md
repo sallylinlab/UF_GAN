@@ -25,7 +25,7 @@ The accuracy of the reconstruction will be determined by developing a reconstruc
 ### Installation
 
 ```bash
-$ git clone git@github.com:sallylinlab/UF_GAN
+$ git clone https://github.com/sallylinlab/UF_GAN.git
 $ cd few-shot-GAN
 $ python -m pip install -r requirements.txt
 ```
